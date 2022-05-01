@@ -45,6 +45,9 @@ public class MapManager : MonoBehaviour
     public float unitSize = 1f;
     public float unitHeight = 0.5f;
 
+    [Header("PropsSettings")]
+    public PropsArea[] propsList; 
+
     private void Start()
     {
         GenerateMap();

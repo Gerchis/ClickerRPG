@@ -366,6 +366,10 @@ MonoBehaviour:
   mapUnit: {fileID: 4780366089561213331, guid: 399becb0fbb9e7c4bb91c8f7970b7902, type: 3}
   unitSize: 5
   unitHeight: 2
+  propsList:
+  - props: []
+  - props: []
+  - props: []
 --- !u!4 &1372748518
 Transform:
   m_ObjectHideFlags: 0
